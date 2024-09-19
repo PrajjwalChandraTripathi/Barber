@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user: one
+  shop: one
+  time_slot: one
+  status: MyString
+
+two:
+  user: two
+  shop: two
+  time_slot: two
+  status: MyString
